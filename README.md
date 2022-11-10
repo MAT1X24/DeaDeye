@@ -1,0 +1,2 @@
+# DeaDeye
+instalar DeaDeye.exe
